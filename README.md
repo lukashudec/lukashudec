@@ -1,5 +1,4 @@
 ![Header](https://github.com/lukashudec/lukashudec/blob/main/git_design.png)
-### Hi there 👋
 
 <!--
 **lukashudec/lukashudec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
