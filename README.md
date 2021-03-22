@@ -1,4 +1,4 @@
-![Header](https://github.com/lukashudec/lukashudec/blob/main/gitFlyer.png)
+![Header](https://github.com/lukashudec/lukashudec/blob/main/GitFlyer.png)
 <!--
 ![Header](https://www.canva.com/design/DAEZf2His7w/OXYSCpJYjepbEQuoXMeQEw/view?utm_content=DAEZf2His7w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 **lukashudec/lukashudec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
