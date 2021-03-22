@@ -1,4 +1,4 @@
-# [![header](https://github.com/lukashudec/lukashudec/blob/main/git_design.png)]
+(https://github.com/lukashudec/lukashudec/blob/main/git_design.png)
 ### Hi there 👋
 
 <!--
