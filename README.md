@@ -1,4 +1,4 @@
-# [![lukashudec hudeader](https://raw.githubusercontent.com/lukashudec/lukashudec/git_design.png)]
+# [![lukashudec hudeader](https://https://github.com/lukashudec/lukashudec/git_design.png)]
 ### Hi there 👋
 
 <!--
